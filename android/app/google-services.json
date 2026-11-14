@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354017211683",
+    "project_id": "gyan-65c24",
+    "storage_bucket": "gyan-65c24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354017211683:android:da0cd174d38b27ac060896",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354017211683-v5bbk1mmjukspt7bpeeanc4e1bccfoer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLkzJMic7x8KwCQ33BxP36Rrv-WyLaK9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354017211683-v5bbk1mmjukspt7bpeeanc4e1bccfoer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
